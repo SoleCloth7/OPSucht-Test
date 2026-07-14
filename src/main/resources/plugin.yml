@@ -1,0 +1,5 @@
+name: OPSuchtTest
+version: '${version}'
+
+main: dev.solecloth.oPSuchtTest.OPSuchtTest
+api-version: '1.21'
