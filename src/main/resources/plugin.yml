@@ -1,5 +1,5 @@
 name: OPSuchtTest
 version: '${version}'
 
-main: dev.solecloth.oPSuchtTest.OPSuchtTest
+main: dev.solecloth.OPSuchtTest.OPSuchtTest
 api-version: '1.21'

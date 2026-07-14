@@ -1,4 +1,4 @@
-package dev.solecloth.oPSuchtTest;
+package dev.solecloth.OPSuchtTest;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
